@@ -30,6 +30,7 @@ npm run lint
 ``` bash
 # 全局安装脚手架
 $ npm install -g @vue/cli
+$ sudo npm install -g @vue/cli
 
 # 查看安装版本
 $ vue -V
