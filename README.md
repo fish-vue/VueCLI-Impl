@@ -28,7 +28,7 @@ npm run lint
 
 ## 安装
 ``` bash
-# 全局安装脚手架
+# 全局安装脚手架；如果已经安装了则会更新到最新版本
 $ npm install -g @vue/cli
 $ sudo npm install -g @vue/cli
 
